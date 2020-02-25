@@ -1,0 +1,96 @@
+
+// Body Styles 
+body,
+html, 
+.body {
+  background: #ffffff !important;
+  background-color:#ffffff !important;
+}
+
+.header-section{
+  background: #ffec04 !important;
+  background-color: #ffec04 !important;
+  .logo{
+    width: 115px;
+
+  }
+  .header-btn{
+    background-color: #ffffff;
+    color: #0073e6;
+    border: 3px solid #0073e6;
+    padding-top:10px;
+    padding-right:20px;
+    padding-bottom:10px;
+    padding-left:20px;
+    text-align: right;
+
+  }
+}
+
+.view-deals-section{
+  background: #efefef !important;
+  background-color: #efefef !important;
+.deal-text{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.view-deal-btn{
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #0073e6;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+
+  }
+}
+
+.deal-img-section{
+  background: #efefef !important;
+  background-color: #efefef !important;
+
+}
+
+.footer-social-section{
+  background: #000000 !important;
+  background-color: #000000 !important;
+  .footer-logo{
+    max-width: 90px!important;
+  }
+  .footer-social-text{
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: 100;
+    font-style: italic;
+    margin-bottom: 0 !important;
+    text-align: center;
+    width: 150px;
+    .text-bold{
+      font-weight: 600;
+      font-style: normal;
+    }
+  }
+}
+
+.footer-section{
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+.footer-text{
+  text-align: center;
+  font-size: 12px;
+}
+.footer-text-bottom{
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 0 !important;
+}
+.footer-links{
+  text-decoration: underline;
+  font-size: 10px;
+  text-align: center;
+}
+
+}
